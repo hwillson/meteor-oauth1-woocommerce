@@ -1,3 +1,3 @@
-# meteor-oauth1-woocommerce
+# meteor-woocommerce-api
 
-Meteor OAuth1 API for communicating with the WooCommerce REST API.
+Meteor API (using one-legged oauth) for communicating with the WooCommerce REST API.
